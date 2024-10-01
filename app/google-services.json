@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956539360143",
+    "project_id": "fbrealtimedatabase-36b95",
+    "storage_bucket": "fbrealtimedatabase-36b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956539360143:android:1fa99039ea118037a271fa",
+        "android_client_info": {
+          "package_name": "com.example.fbrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjNNI5BpCKexDPCg7mR8adCp1Gmptt1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
